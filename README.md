@@ -1,4 +1,4 @@
-# �� Machine Learning & AI Complete Guide
+# Machine Learning & AI Complete Guide
 
 Welcome to the comprehensive Machine Learning and AI repository! This repository serves as a complete guide for mastering machine learning and artificial intelligence concepts, tools, and practical applications.
 
