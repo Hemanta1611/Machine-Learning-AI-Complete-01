@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+transformers
+jupyterlab
+plotly
+streamlit
+requests
