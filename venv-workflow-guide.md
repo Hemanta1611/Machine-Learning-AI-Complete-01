@@ -58,3 +58,13 @@ deactivate
 # For Python 3.13
    py -3.13 -m venv venv   | python3.13 -m venv venv
    venv\Scripts\activate
+
+# for checking installed python version
+C:\Users\heman>where python <br>
+C:\Users\heman\AppData\Local\Programs\Python\Python311\python.exe <br>
+C:\Users\heman\AppData\Local\Programs\Python\Python313\python.exe <br>
+C:\Users\heman\AppData\Local\Microsoft\WindowsApps\python.exe
+
+C:\Users\heman>py -0 <br>
+ -V:3.13 *        Python 3.13 (64-bit) <br>
+ -V:3.11          Python 3.11 (64-bit)
