@@ -54,7 +54,7 @@ Welcome to the comprehensive Machine Learning and AI repository! This repository
 - Kaggle Competitions
 - Presenting Findings and Results
 
-## �� Learning Path
+## Learning Path
 This repository is designed to take you from beginner to advanced levels in machine learning and AI. Each topic is carefully structured to build upon previous knowledge, ensuring a comprehensive learning experience.
 
 ## 🚀 Getting Started
